@@ -117,7 +117,7 @@ h6 {
 }
 
 .section--devices {
-  background: url("../Training/images/for3.jpg!d") center no-repeat;
+  background: url("images/for3.jpg!d") center no-repeat;
   -webkit-background-size: cover;
   background-size: cover;
 }
@@ -254,16 +254,16 @@ h6 {
 }
 
 .inst {
-  background: url("../Training/images/5301-instagram_102510.png") center no-repeat;
+  background: url("images/5301-instagram_102510.png") center no-repeat;
 }
 .twitter {
-  background: url("../Training/images/5294-twitter-i_102511.png") center no-repeat;
+  background: url("images/5294-twitter-i_102511.png") center no-repeat;
 }
 .youtube {
-  background: url("../Training/images/5295-youtube-i_102568.png") center no-repeat;
+  background: url("images/5295-youtube-i_102568.png") center no-repeat;
 }
 .facebook {
-  background: url("../Training/images/5293-facebook_102565.png") center no-repeat;
+  background: url("images/5293-facebook_102565.png") center no-repeat;
 }
 
 /*Services*/
